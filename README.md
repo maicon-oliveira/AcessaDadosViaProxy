@@ -1,3 +1,3 @@
-Programa Criado no SAP GUI.
+# Acessa Dados Via Proxy (SAP GUI)
 
-Ele faz uma chamda simples de proxy que retorna os dados do usuário.
+O programa faz uma chamda simples de proxy que retorna os dados do usuário.
